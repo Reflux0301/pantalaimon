@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/reflux0301/matterbridge:latest
+          tags: ghcr.io/reflux0301/pantalaimon:latest
